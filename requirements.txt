@@ -1,0 +1,61 @@
+# Core dependencies
+streamlit>=1.31.0
+pandas>=2.2.0
+numpy>=1.26.0
+scikit-learn>=1.4.0
+
+# Data visualization
+plotly>=5.18.0
+matplotlib>=3.8.0
+seaborn>=0.13.0
+
+# Data processing and analysis
+scipy>=1.12.0
+statsmodels>=0.14.1
+
+# Date and time handling
+python-dateutil>=2.8.2
+pytz>=2024.1
+
+# File handling and data storage
+openpyxl>=3.1.2
+xlrd>=2.0.1
+python-dotenv>=1.0.0
+
+# API and web requests
+requests>=2.31.0
+aiohttp>=3.9.0
+
+# Progress bars and spinners
+tqdm>=4.66.0
+
+# Image processing (for soil color analysis)
+Pillow>=10.0.0
+
+# Geospatial data handling
+geopandas>=0.14.0
+folium>=0.15.0
+
+# Documentation
+sphinx>=7.2.0
+sphinx-rtd-theme>=2.0.0
+
+# Testing
+pytest>=8.0.0
+pytest-cov>=4.1.0
+
+# Development tools
+black>=24.1.0
+flake8>=7.0.0
+isort>=5.13.0
+
+# Optional: Database connectors
+sqlalchemy>=2.0.0
+psycopg2-binary>=2.9.0
+pymongo>=4.6.0
+
+# Optional: Machine Learning extras
+tensorflow>=2.15.0
+torch>=2.2.0
+xgboost>=2.0.0
+lightgbm>=4.2.0
